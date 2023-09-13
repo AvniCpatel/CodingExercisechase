@@ -1,0 +1,5 @@
+info:
+  app:
+    name: Validate Account Number API
+server:
+  port: ${PORT:8080}
